@@ -57,4 +57,4 @@ if uploaded_file:
         data=output.getvalue(),
         file_name="Control_Inventario_Galones.xlsx",
         mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
-    )
+                    )
